@@ -2,4 +2,4 @@
 
 ## My attempt at applying data analytics skills from the DataCamp track:
 
-### Python Developer
+*Python Developer*
